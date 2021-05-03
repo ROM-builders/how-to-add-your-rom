@@ -20,3 +20,5 @@ for projects:
 4. Once you prepared your repository please [create an issue in this repository](https://github.com/ROM-builders/how-to-add-your-rom/issues/new)
    with a link to the repository, please describe how you distribute the ROM (via forum, Telegram channel or something else).
    Ideally, if you have that information, tell us how many people install your ROM.
+5. Once we review your repository and approve it, you'll be able to initiate a transfer of the repository to ROM-builders.
+6. Once the repository is transferred, you'll be added as an admin to it.
